@@ -1,4 +1,4 @@
-Lag Profiler Mod for Multiplayer Minecraft
+#Lag Profiler Mod for Multiplayer Minecraft
 
 Lag Profiler is a performance analysis tool specifically designed for multiplayer servers of a popular sandbox video game called Minecraft. The game allows players to build and explore virtual worlds made up of blocks, providing an immersive experience. However, complex constructions and interactions between game elements can sometimes lead to performance issues, commonly known as lag, which degrades the gameplay experience.
 
